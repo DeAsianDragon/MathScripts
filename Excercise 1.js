@@ -1,1 +1,0 @@
-var totalDue = foodCost + Tax + Tip
